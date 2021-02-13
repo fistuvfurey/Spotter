@@ -1,0 +1,6 @@
+framework module Pods_SpotterTests {
+  umbrella header "Pods-SpotterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
